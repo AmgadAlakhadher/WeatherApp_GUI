@@ -1,0 +1,14 @@
+C:\Users\Элина\Documents\c#\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.exe
+C:\Users\Элина\Documents\c#\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.deps.json
+C:\Users\Элина\Documents\c#\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.runtimeconfig.json
+C:\Users\Элина\Documents\c#\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.dll
+C:\Users\Элина\Documents\c#\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.pdb
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.AssemblyInfo.cs
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.dll
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\refint\WeatherApp.dll
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.pdb
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.genruntimeconfig.cache
+C:\Users\Элина\Documents\c#\WeatherApp\obj\Debug\net8.0-windows\ref\WeatherApp.dll
