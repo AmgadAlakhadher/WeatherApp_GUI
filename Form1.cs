@@ -99,8 +99,7 @@ public partial class Form1 : Form
                 }
                 else
                 {
-                    MessageBox.Show(response.StatusCode.ToString());
-                    throw new Exception($"Ошибка: {response.StatusCode}");
+                    MessageBox.Show($"Ошибка: {response.StatusCode.ToString()}");
                 }
             }
         }
